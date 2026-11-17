@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "status": "pending-review",
+  "status": "Questions embedded in index.html",
+  "notes": "The live app uses RULES in index.html; this reserved JSON file is not loaded by the website. Questions are original handbook-based study scenarios, not official DMV exam questions.",
   "source": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/",
   "questions": []
 }
