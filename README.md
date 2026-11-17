@@ -8,7 +8,7 @@ Mobile-first California Class C knowledge-test preparation, built for an iPhone 
 - **Mock exam** runs 35 practice questions without immediate feedback; the score and wrong-answer review appear at the end
 - **Practice my weak spots** prioritizes previously missed rules
 - Progress is saved locally in the browser using `localStorage`; it does not synchronize between devices
-- Questions and answer order vary between rounds; the bank currently covers **16 rules / 48 authored question variations** (not a complete DMV curriculum)
+- Questions and answer order vary between rounds; the bank currently covers **43 rules / 129 authored question variations** (not a complete DMV curriculum)
 
 ## Learning philosophy
 
@@ -25,7 +25,7 @@ Explain what the question is really asking, then test the rule in different word
 - [Lane use](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/)
 - [Rules of the road](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/)
 
-These are original practice questions based on DMV rules, **not actual DMV exam questions**. This early version intentionally prioritizes high-confusion distance and parking questions; broader topic coverage needs to be added before treating the mock score as an indicator of real exam readiness.
+These are original practice questions based on DMV rules, **not actual DMV exam questions**. This version expands beyond parking to more handbook topics. It is still not an exhaustive or official DMV question bank. Continue using the DMV handbook and official sample exams, and treat mock results as study feedback rather than a guarantee of passing.
 
 ## Hosting
 
